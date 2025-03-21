@@ -2,7 +2,7 @@
 - 👀 I’m interested in immunology, cancer, Bioinformatics
 - 🌱 I’m currently learning R script, use ImagJ macro for image analysis
 - 💞️ I’m looking to collaborate on Bioinformatics, machine learning, image analysis
-- 📫 How to reach me institute mail
+- 📫 How to reach me institute mail: Diana.Cadena-Castaneda@gustaveroussy.fr
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
